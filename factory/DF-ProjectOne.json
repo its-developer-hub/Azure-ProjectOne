@@ -1,0 +1,9 @@
+{
+	"name": "DF-ProjectOne",
+	"location": "australiasoutheast",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b361c549-bb83-4e06-8ab1-e76c448268d6",
+		"tenantId": "62db6316-c67a-48f1-891f-f9a22db186ce"
+	}
+}
